@@ -1,2 +1,2 @@
-# Scrollable-Tab-View---STV
+# Scrollable-Tab-View-STV
 Simple implementation of Scrollable Tab View in SwiftUI.
